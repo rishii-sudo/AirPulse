@@ -66,3 +66,10 @@ python airpulse_phase5.py
 
 > Built from scratch — signal simulation to real-time ML dashboard.
 > No cameras. No wearables. Just radio waves.
+> Note: AirPulse runs locally. Clone the repo and follow
+> the Quick Start guide to run it on your machine.
+```
+
+GitHub repo link:
+```
+https://github.com/rishii-sudo/AirPulse
