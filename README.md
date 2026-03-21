@@ -48,6 +48,7 @@ python airpulse_phase5.py
 ![LSTM Training](airpulse_data/phase3_training.png)
 ![LSTM Predictions](airpulse_data/phase3_predictions.png)
 
+
 ## Screenshots
 
 ### Phase 4 — Vital Signs Dashboard
@@ -55,7 +56,6 @@ python airpulse_phase5.py
 
 ### Phase 5 — Location Tracking Dashboard  
 ![Phase 5](screenshots/phase5_dashboard.png)
-
 
 
 ## Author
