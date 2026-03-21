@@ -41,3 +41,25 @@ python airpulse_phase5.py
 | Breathing error | 0.06 BPM |
 | Heart rate detection | 99% confidence |
 | Location error | ~0.7m |
+## Screenshots
+
+### Phase 4 — Vital Signs Dashboard
+![Phase 4 Dashboard](screenshots/phase4_dashboard.png)
+
+### Phase 5 — Location Tracking
+![Phase 5 Dashboard](screenshots/phase5_dashboard.png)
+
+### Signal Analysis
+![Signal Breakdown](airpulse_data/phase1_signal.png)
+![Filter Results](airpulse_data/phase2_filter.png)
+![LSTM Training](airpulse_data/phase3_training.png)
+![LSTM Predictions](airpulse_data/phase3_predictions.png)
+
+## Author
+**Rishabh Pareek**
+
+[![GitHub](https://img.shields.io/badge/GitHub-rishii--sudo-181717?style=for-the-badge&logo=github)](https://github.com/rishii-sudo)
+[![Instagram](https://img.shields.io/badge/Instagram-therishabhjoshi-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/therishabhjoshi)
+
+> Built from scratch — signal simulation to real-time ML dashboard.
+> No cameras. No wearables. Just radio waves.
