@@ -41,13 +41,6 @@ python airpulse_phase5.py
 | Breathing error | 0.06 BPM |
 | Heart rate detection | 99% confidence |
 | Location error | ~0.7m |
-## Screenshots
-
-### Phase 4 — Vital Signs Dashboard
-![Phase 4 Dashboard](screenshots/phase4_dashboard.png)
-
-### Phase 5 — Location Tracking
-![Phase 5 Dashboard](screenshots/phase5_dashboard.png)
 
 ### Signal Analysis
 ![Signal Breakdown](airpulse_data/phase1_signal.png)
