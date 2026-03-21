@@ -1,0 +1,32 @@
+{
+  "project": "AirPulse",
+  "phase": 2,
+  "breathing": {
+    "detected_bpm": 6.0,
+    "true_bpm": 15,
+    "error_bpm": 9.0,
+    "confidence_pct": 99.0,
+    "snr_db": 0.0,
+    "band_hz": [
+      0.1,
+      0.5
+    ]
+  },
+  "heart_rate": {
+    "detected_bpm": 72.0,
+    "true_bpm": 72,
+    "error_bpm": 0.0,
+    "confidence_pct": 99.0,
+    "snr_db": -14.81,
+    "band_hz": [
+      1.1,
+      2.2
+    ]
+  },
+  "filter": {
+    "type": "Butterworth bandpass (zero-phase)",
+    "order": 4,
+    "method": "Welch PSD peak detection"
+  },
+  "next_phase": "Run airpulse_phase3.py \u2014 LSTM model training"
+}
