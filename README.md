@@ -51,7 +51,7 @@ python airpulse_phase5.py
 ## Screenshots
 
 ### Phase 4 — Vital Signs Dashboard
-![Phase 4](airpulse_data/Screenshot_21-3-2026_181540_localhost.jpeg)
+![Phase 4](Screenshot_21-3-2026_181540_localhost.jpeg)
 
 ### Phase 5 — Location Tracking Dashboard  
 ![Phase 5](airpulse_data/Screenshot_21-3-2026_181630_localhost.jpeg)
